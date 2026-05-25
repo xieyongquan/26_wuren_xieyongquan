@@ -1,3 +1,7 @@
+晚上github一直连不上所以迟交
+
+
+
 https://blog.csdn.net/lzm12278828/article/details/144166252
 
 使用AI编写加载数据集和可视化代码，查找相关函数实现，辅助理解函数，学习正则化惩罚
