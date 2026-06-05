@@ -1,0 +1,258 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-6ee67e770c354aefc6d8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						17,
+						18
+					]
+				},
+				{
+					"build" : "fsd_common_msgs__py",
+					"jsonFile" : "directory-fsd_common_msgs__py-7687a5e56dd1d0e98e58.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/build/fsd_common_msgs/fsd_common_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "fsd_common_msgs__rs",
+					"jsonFile" : "directory-fsd_common_msgs__rs-3a42d56748014f5e2eed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/build/fsd_common_msgs/fsd_common_msgs__rs",
+					"targetIndexes" : 
+					[
+						16
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "fsd_common_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_fsd_common_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_fsd_common_msgs_egg-2c5ef9ce0a57574eb3c8.json",
+					"name" : "ament_cmake_python_build_fsd_common_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_fsd_common_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_fsd_common_msgs-a71256fe74899edd4655.json",
+					"name" : "ament_cmake_python_copy_fsd_common_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs-b2a2921c114782b924e9.json",
+					"name" : "fsd_common_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__cpp-924647ae00974eaf5745.json",
+					"name" : "fsd_common_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fsd_common_msgs__py::@54013eeb6d6591599717",
+					"jsonFile" : "target-fsd_common_msgs__py-1dcf49cc418c442c5bef.json",
+					"name" : "fsd_common_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_generator_c-00041742e68da197a7bc.json",
+					"name" : "fsd_common_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_generator_py-b5a28882674fbc7c0ff6.json",
+					"name" : "fsd_common_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_typesupport_c-8df08abae9471beb0c32.json",
+					"name" : "fsd_common_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_typesupport_c__pyext-e9ccec971c52db5d6917.json",
+					"name" : "fsd_common_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_typesupport_cpp-ac4ecdc2d96688c382be.json",
+					"name" : "fsd_common_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_typesupport_fastrtps_c-5d288dedf0af997e5767.json",
+					"name" : "fsd_common_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_typesupport_fastrtps_c__pyext-fd95cc1641f3e1abf9ff.json",
+					"name" : "fsd_common_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_typesupport_fastrtps_cpp-73c3825853d8f6573985.json",
+					"name" : "fsd_common_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_typesupport_introspection_c-02119cd7105ea2265a84.json",
+					"name" : "fsd_common_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_typesupport_introspection_c__pyext-91d51cf4f75268d7522d.json",
+					"name" : "fsd_common_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs__rosidl_typesupport_introspection_cpp-bfcf316e78cd19c91761.json",
+					"name" : "fsd_common_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "fsd_common_msgs__rs::@a62ff52a81d4df95625c",
+					"jsonFile" : "target-fsd_common_msgs__rs-cd3b5f097dcac14033ca.json",
+					"name" : "fsd_common_msgs__rs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fsd_common_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fsd_common_msgs_uninstall-41a42770e5a207720f62.json",
+					"name" : "fsd_common_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-6d9e85f63375d1394d2b.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/build/fsd_common_msgs",
+		"source" : "/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/src/fsd_common_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

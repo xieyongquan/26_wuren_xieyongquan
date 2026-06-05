@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-8f7e96d1adc753789329.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cone_map_visual",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cone_map_visual::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cone_map_visual-bbbc2ff801c0e164a2e7.json",
+					"name" : "cone_map_visual",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cone_map_visual_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cone_map_visual_uninstall-c1497eb5d17e13b7d02a.json",
+					"name" : "cone_map_visual_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-a920b6a9086946541d65.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/build/cone_map_visual",
+		"source" : "/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/src/cone_map_visual"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
