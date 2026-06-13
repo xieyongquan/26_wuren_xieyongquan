@@ -1,0 +1,16 @@
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/lib/cone_map_visualize/cone_map_visualize
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/ament_index/resource_index/package_run_dependencies/cone_map_visualize
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/ament_index/resource_index/parent_prefix_path/cone_map_visualize
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/environment/ament_prefix_path.sh
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/environment/ament_prefix_path.dsv
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/environment/path.sh
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/environment/path.dsv
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/local_setup.bash
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/local_setup.sh
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/local_setup.zsh
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/local_setup.dsv
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/package.dsv
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/ament_index/resource_index/packages/cone_map_visualize
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/cmake/cone_map_visualizeConfig.cmake
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/cmake/cone_map_visualizeConfig-version.cmake
+/home/yzl/Desktop/ros2_learning-main/ros2_homework_advanced_ws/install/cone_map_visualize/share/cone_map_visualize/package.xml

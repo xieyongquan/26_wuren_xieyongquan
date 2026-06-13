@@ -1,0 +1,4 @@
+source;share/cone_map_visual/local_setup.bash
+source;share/cone_map_visual/local_setup.dsv
+source;share/cone_map_visual/local_setup.sh
+source;share/cone_map_visual/local_setup.zsh

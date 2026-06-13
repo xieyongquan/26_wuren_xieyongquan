@@ -1,0 +1,4 @@
+source;share/cone_map_visualize/hook/cmake_prefix_path.dsv
+source;share/cone_map_visualize/hook/cmake_prefix_path.sh
+source;share/cone_map_visualize/local_setup.dsv
+source;share/cone_map_visualize/local_setup.sh
