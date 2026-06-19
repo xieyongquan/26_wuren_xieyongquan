@@ -1,0 +1,22 @@
+cone_mapper.py
+从感知节点订阅感知锥桶坐标/perception/cone_detections和原始锥桶坐标/perception/cones
+调用 body_to_world 函数实现锥桶相对坐标到世界坐标
+对比处理感知坐标和原始坐标，采用最近邻匹配，重复观测用加权平均压噪提高置信度
+将结果建图发布
+/estimation/slam/map，map消息供后续节点使用
+/visualization/cone_map，makerarray消息供rviz可视化
+
+right_angle_planner.py
+从建图节点订阅全局锥桶地图/estimation/slam/map
+从定位订阅车辆定位话题/localization/pose
+先计算小车行驶方向
+优先使用感知地图，将左右蓝黄锥桶一一匹配计算中点，将得到的点按先后顺序，线性插入点连成完整路径
+感知地图异常时，使用原始地图
+发布path给控制节点
+发布路径点连线的markerarray给rviz进行可视化
+
+遇到问题
+规划线路时不相邻点会连线：引入顺序
+规划路径不平滑：引入线性插值
+建图时出现锥桶位置异常：引入最近邻匹配和加权平均
+刚开始时经常报错：引入原始地图进行调试
